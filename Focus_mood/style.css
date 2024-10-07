@@ -1,0 +1,31 @@
+body{
+     background-color: rgba(72, 163, 0, 0.07);
+     font-family: 'poppins';
+}
+
+h1{
+    color: rgb(25, 196, 25);
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 96px;
+    text-align: center;
+
+}
+.heading span{
+
+    color: rgb(108, 7, 7);
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 96px;
+    text-align: center;
+
+}
+.app-container{
+    background-color: rgba(251, 251, 251, 1);
+    max-width: 660px;
+    margin-inline: auto;
+    
+
+
+
+}
